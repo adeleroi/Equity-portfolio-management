@@ -1,4 +1,4 @@
-# Equity-portfolio
+# Equity-portfolio-management
 Portefeuille d'actions.
 
 
